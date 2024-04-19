@@ -1,0 +1,16 @@
+body {
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+h1, h2, h3 {
+    font-family: "Arial", sans-serif;
+    color:pink;
+    font-size: 24px; /* Smaller font-size for elegance */
+    line-height: 1.4;
+    letter-spacing: 0.05em;
+}
